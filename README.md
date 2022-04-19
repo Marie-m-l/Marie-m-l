@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Marie-m-l
 - 👀 I’m interested in bettering my coding skills and having great team experiences!
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript Fundamentals 
 - 💞️ I’m looking to collaborate on anything including HTML5 and CSS
 - 📫 You can reach me via email at mariemlaqua@gmail.com with subject line including Coding
 
